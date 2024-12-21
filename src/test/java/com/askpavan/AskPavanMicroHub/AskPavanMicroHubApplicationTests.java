@@ -8,6 +8,7 @@ class AskPavanMicroHubApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Context test creation");
 	}
 
 }
